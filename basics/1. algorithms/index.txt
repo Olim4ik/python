@@ -1,0 +1,38 @@
+Idea of programming.
+
+Role of algorithms in programming
+
+Role of programming language in programming
+
+Algorithm of teeth brushing 
+
+
+Homework. 
+
+Write an algorithm of coffee preparation:
+
+Get a kettle. Turn on the sink. Fill kettle with water. Put it into the cooker. 
+Turn on the cooker. Wait untill the water get boiled. Get coffee from the container. 
+Put in into the cup. Fill the cup with water.
+
+
+Write an algorithm of going to work:
+
+Get up at 6:30. Take out my lenses. Have a shower and all this stuff. Have a breakfast.
+Wearing outdoor clothes. Prepare my bottle with water. May be take a snack. Leave house at 7:40sh with father.
+Get Paxtakor metro. Take a matro and go till Bunyodkor station. Than walk for 15 - 20 minutes. Well done I am in the office.
+
+
+Write an algorithm of searching for a name in the dictionary:
+
+Open the book. Start searching in increasing order. If name is found close the book. Else look at the next name.
+
+
+Sum of two numbers:
+
+Hello user! Enter first number: => number1
+Well done, now enter second number: => number2
+answer = number1 + number2
+Here you are. Sum of your numbers is => answer
+
+
